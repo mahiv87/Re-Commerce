@@ -20,11 +20,16 @@ E-Commerce platform that uses Redux
 
 ## Technologies
 
--   HTML5
--   CSS3
--   JavaScript
--   Node.js
--   Express.js
+![HTML5 tag](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3 tag](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node.js tag]()
+![Express.js tag]()
+![MongoDB tag](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Apollo tag](https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white)
+![Express.js tag]()
+![Express.js tag]()
+![Express.js tag]()
 
 ## Installation
 
